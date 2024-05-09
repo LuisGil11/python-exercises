@@ -1,7 +1,7 @@
 # Para correr el api de fastapi
 
 ```
-uvicorn main:app –reload
+uvicorn main:app –-reload
 ```
 
 ## De ser necesario, instalaciones necesarias para fastapi
