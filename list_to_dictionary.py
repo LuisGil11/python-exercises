@@ -1,3 +1,6 @@
+# Escribe una función Python que tome una lista de números y devuelva un
+# diccionario con la cuenta de cada número.
+
 def list_to_dictionary(list: list):
     dictionary = {}
     for element in list:
